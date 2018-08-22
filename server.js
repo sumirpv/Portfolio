@@ -1,6 +1,6 @@
 const express = require("express");
 const path = require("path");
-const PORT = process.env.PORT || 3030;
+const PORT = process.env.PORT || 80;
 const app = express();
 
 // Serve up static assets (usually on heroku)
