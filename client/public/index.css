@@ -13,8 +13,21 @@ body {
   .footer-words {
     margin-top: 6px;
 }
+
 .jumbotron{
+  background-image:  url("/images/sky.jpg");
+}
+/* .text-secondary  {
+  color: #f8f9fa!important;
+} */
+/* .jumbotron{
   background-color: #40baf7c9;
+}*/
+.text-secondary  {
+  color: #212529!important;
+} 
+.dark-font {
+  color: #212529!important;
 }
 .footer-section {
   font-family: 'Black Ops One';
